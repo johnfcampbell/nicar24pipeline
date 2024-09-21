@@ -1,13 +1,13 @@
 complaint_type,count
 Air,369
-Odor,209
-Other,176
-Fugitive Dust/Particulate Matter,61
+Odor,210
+Other,177
+Fugitive Dust/Particulate Matter,62
  Odor,53
  Smoke,41
 Smoke,35
  Fumes,28
-Open Burning,24
+Open Burning,25
  Open Burning,18
 Fumes,16
  Other,11
@@ -20,13 +20,13 @@ ARA AQCP non-regulated entity,2
  Asbestos Complaint,2
 Abandoned Drums/Tanks,1
 Groundwater Contamination,1
- Lead Paint Poisoning Complaint,1
-Oil Release/Spill,1
+ Oil Release/Spill (Surface),1
+Oil Release/Spill (Surface),1
 Water Pollutant Release,1
 Possible Permit Violation,1
 Suspected Operation without Permit,1
  Vapor Release,1
  Air Pollutant Release,1
-Oil Release/Spill (Surface),1
+ Lead Paint Poisoning Complaint,1
  Suspected Operation without Permit,1
- Oil Release/Spill (Surface),1
+Oil Release/Spill,1
