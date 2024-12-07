@@ -1,5 +1,5 @@
 complaint_type,count
-Air,410
+Air,411
 Odor,238
 Other,189
 Fugitive Dust/Particulate Matter,74
@@ -8,8 +8,8 @@ Fugitive Dust/Particulate Matter,74
 Smoke,37
  Fumes,28
 Open Burning,26
+ Fugitive Dust/Particulate Matter,20
  Open Burning,19
- Fugitive Dust/Particulate Matter,19
 Fumes,16
  Other,15
 Asbestos Complaint,5
