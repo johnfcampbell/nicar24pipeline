@@ -1,13 +1,13 @@
 complaint_type,count
-Air,448
-Odor,270
-Other,199
+Air,454
+Odor,271
+Other,201
 Fugitive Dust/Particulate Matter,80
  Odor,58
- Smoke,46
+ Smoke,47
 Smoke,42
+Open Burning,30
  Fumes,30
-Open Burning,28
  Fugitive Dust/Particulate Matter,22
  Open Burning,19
  Other,17
@@ -28,9 +28,9 @@ Water Pollutant Release,1
  Air,1
 Groundwater Contamination,1
 Abandoned Drums/Tanks,1
- Noise Complaint,1
+Agricultural,1
 Oil Release/Spill (Surface),1
  Lead Paint Poisoning Complaint,1
 Coal Mining,1
-Agricultural,1
+ Noise Complaint,1
 Oil Release/Spill,1
