@@ -1,8 +1,8 @@
 complaint_type,count
 Air,577
-Odor,328
-Other,226
-Fugitive Dust/Particulate Matter,86
+Odor,330
+Other,227
+Fugitive Dust/Particulate Matter,87
  Odor,65
  Smoke,58
 Smoke,45
@@ -19,20 +19,20 @@ Air Pollutant Release,4
 Non-Tidal Wetlands/Waterway,3
  Suspected Operation without Permit,2
  Asbestos Complaint,2
- Unknown Substance,1
-Abandoned Drums/Tanks,1
  Vapor Release,1
 Suspected Operation without Permit,1
+Oil Release/Spill,1
 Possible Permit Violation,1
 Water Pollutant Release,1
  Oil Release/Spill (Surface),1
 Groundwater Contamination,1
- Lead Paint Poisoning Complaint,1
-Oil Release/Spill,1
-Oil Release/Spill (Surface),1
+Abandoned Drums/Tanks,1
 Coal Mining,1
+Oil Release/Spill (Surface),1
+ Lead Paint Poisoning Complaint,1
  Noise Complaint,1
  Air,1
 Agricultural,1
  Possible Permit Violation,1
+ Unknown Substance,1
  Air Pollutant Release,1
