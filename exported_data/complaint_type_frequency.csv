@@ -1,5 +1,5 @@
 complaint_type,count
-Air,631
+Air,635
 Odor,343
 Other,240
 Fugitive Dust/Particulate Matter,89
@@ -11,29 +11,30 @@ Open Burning,36
  Fugitive Dust/Particulate Matter,34
 ARA AQCP non-regulated entity,26
  Open Burning,25
+ Other,21
 Fumes,20
- Other,19
 Noise Complaint,8
-Air Pollutant Release,5
 Asbestos Complaint,5
+Air Pollutant Release,5
 Non-Tidal Wetlands/Waterway,3
+ Air Pollutant Release,2
  Asbestos Complaint,2
  Suspected Operation without Permit,2
- Air Pollutant Release,2
- Possible Permit Violation,1
-Oil Release/Spill,1
-Suspected Operation without Permit,1
-Possible Permit Violation,1
 Water Pollutant Release,1
+Possible Permit Violation,1
  Oil Release/Spill (Surface),1
 Groundwater Contamination,1
 Abandoned Drums/Tanks,1
+Oil Release/Spill,1
+Suspected Operation without Permit,1
 Oil Release/Spill (Surface),1
  Unknown Substance,1
-Illegal Dam,1
  Lead Paint Poisoning Complaint,1
 Coal Mining,1
  Noise Complaint,1
  Air,1
 Agricultural,1
+ Possible Permit Violation,1
+Illegal Dam,1
+ Waste,1
  Vapor Release,1
