@@ -1,9 +1,9 @@
 complaint_type,count
-Air,740
+Air,741
 Odor,367
 Other,265
 Fugitive Dust/Particulate Matter,104
- Odor,75
+ Odor,76
  Smoke,66
 Smoke,50
 ARA AQCP non-regulated entity,46
@@ -11,8 +11,8 @@ Air Pollutant Release,45
 Open Burning,39
  Fumes,37
  Fugitive Dust/Particulate Matter,37
+ Open Burning,29
  Other,29
- Open Burning,28
 Fumes,21
 Noise Complaint,8
  Air Pollutant Release,6
