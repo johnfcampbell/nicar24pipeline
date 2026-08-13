@@ -1,8 +1,8 @@
 complaint_type,count
 Air,850
-Odor,457
+Odor,458
 Other,305
-Fugitive Dust/Particulate Matter,119
+Fugitive Dust/Particulate Matter,122
  Odor,102
  Smoke,77
 ARA AQCP non-regulated entity,71
@@ -21,26 +21,26 @@ Noise Complaint,9
  Air Pollutant Release,7
 Asbestos Complaint,5
 Suspected Operation without Permit,4
-Non-Tidal Wetlands/Waterway,3
  Suspected Operation without Permit,3
+Non-Tidal Wetlands/Waterway,3
  Noise Complaint,2
-Lead Paint Poisoning Complaint,1
-Unknown Substance,1
- Hazardous Waste,1
- Groundwater Contamination,1
- Equipment Malfunction,1
-Chemical Release/Spill,1
-Illegal Dam,1
- Waste,1
- Unknown Substance,1
- Possible Permit Violation,1
 Coal Mining,1
- Lead Paint Poisoning Complaint,1
-Oil Release/Spill (Surface),1
-Oil Release/Spill,1
-Abandoned Drums/Tanks,1
-Groundwater Contamination,1
  Oil Release/Spill (Surface),1
 Water Pollutant Release,1
 Possible Permit Violation,1
+Groundwater Contamination,1
+Abandoned Drums/Tanks,1
+Oil Release/Spill,1
+Oil Release/Spill (Surface),1
+ Lead Paint Poisoning Complaint,1
+Unknown Substance,1
+ Possible Permit Violation,1
+ Unknown Substance,1
+Illegal Dam,1
+ Waste,1
+ Equipment Malfunction,1
+Chemical Release/Spill,1
+ Hazardous Waste,1
+ Groundwater Contamination,1
+Lead Paint Poisoning Complaint,1
  Vapor Release,1
